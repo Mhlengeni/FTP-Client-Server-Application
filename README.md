@@ -18,7 +18,7 @@ The server supports **multiple concurrent clients** through multithreading and i
 ---
 
 ## 🛠️ Tech Stack
-- **Programming Language:** Python 3.x  
+- **Programming Language:** Python 3.9 
 - **Libraries/Modules:** `socket`, `threading`, `os`  
 - **Tools:** Wireshark, FileZilla  
 - **Protocol Standards:** TCP, FTP (RFC 959)
